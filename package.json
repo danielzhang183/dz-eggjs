@@ -1,0 +1,22 @@
+{
+  "name": "dz-eggjs",
+  "version": "1.0.0",
+  "description": "Learing Eggjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "keywords": [],
+  "author": "Dylan Zhang",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielzhang183/dz-eggjs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.36.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^5.1.1"
+  }
+}

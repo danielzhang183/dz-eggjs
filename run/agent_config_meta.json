@@ -1,0 +1,276 @@
+{
+  "keys": "/Volumes/C/workspace/dz-eggjs/config/config.default.js",
+  "session": {
+    "maxAge": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "key": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-session@3.3.0/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "type": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "value": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "policy": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-security@2.10.1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-jsonp@2.0.0/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-onerror@2.1.0/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-i18n@2.1.1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-watcher@3.1.1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-schedule@3.6.6/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-multipart@2.13.1/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-development@2.7.0/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-logrotator@3.1.0/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "dir": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "preload": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-static@2.2.0/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "cache": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg-view@2.1.3/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "name": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "cookies": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "proxy": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "version": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "description": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "main": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "author": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "repository": {
+      "type": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "url": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "license": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "HOME": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "rundir": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "notFound": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "sitefile": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "middlewares": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "httpClient": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "formLimit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "textLimit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "strict": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "depth": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "encoding": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "env": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "level": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "buffer": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "appLogName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "logging": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "port": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+      "hostname": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Volumes/C/workspace/dz-eggjs/node_modules/.pnpm/egg@2.36.0/node_modules/egg/config/config.default.js"
+}
